@@ -1,10 +1,8 @@
-### Hi there I'm Alaa 👋
-
-I'm a web developer 
+### Hi there I'm Alaa 👋 Web developer
 
 - 🔭 I’m currently working as Freelance
 - 🌱 I’m currently learning C#.
-- 💬 Ask me about Python
+- 💬 Ask me about Python,PHP
 - 📫 How to reach me: [email](mailto:alaa.21.iraq@gmail.com) [linkedin](https://www.linkedin.com/in/alaa-aqeel/)
 
 ---
