@@ -1,4 +1,4 @@
-### Hi there I'm Alaa 👋 Web developer [resume](https://alaaprog.github.io/resume/)
+### Hi there I'm Alaa 👋 Web developer [resume](https://alaaprog.github.io/)
 
 - 🔭 I’m currently working as Freelance
 - 🌱 I’m currently learning C#.
